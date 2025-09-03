@@ -1,0 +1,4 @@
+configurations:
+  env: UAT
+  browser: chrome
+  url: https://www.automationexercise.com/
